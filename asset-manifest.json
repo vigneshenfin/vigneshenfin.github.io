@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.82723330.chunk.css",
+    "main.js": "/static/js/main.aeb48d27.chunk.js",
+    "main.js.map": "/static/js/main.aeb48d27.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ab617505.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ab617505.js.map",
+    "static/css/2.c51b6406.chunk.css": "/static/css/2.c51b6406.chunk.css",
+    "static/js/2.ca5c304d.chunk.js": "/static/js/2.ca5c304d.chunk.js",
+    "static/js/2.ca5c304d.chunk.js.map": "/static/js/2.ca5c304d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b92a9be73c2a8c8b18fc21c40af3afb6.js": "/precache-manifest.b92a9be73c2a8c8b18fc21c40af3afb6.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.c51b6406.chunk.css.map": "/static/css/2.c51b6406.chunk.css.map",
+    "static/css/main.82723330.chunk.css.map": "/static/css/main.82723330.chunk.css.map",
+    "static/media/zabuto_calendar.min.css": "/static/media/OpenSans-Regular.3ed9575d.ttf",
+    "static/media/style.css": "/static/media/bg.8964d7bc.png",
+    "static/media/lapbook.png": "/static/media/lapbook.9a467e29.png",
+    "static/media/logo.png": "/static/media/logo.ae14c331.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab617505.js",
+    "static/css/2.c51b6406.chunk.css",
+    "static/js/2.ca5c304d.chunk.js",
+    "static/css/main.82723330.chunk.css",
+    "static/js/main.aeb48d27.chunk.js"
+  ]
+}
